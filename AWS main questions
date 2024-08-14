@@ -1,0 +1,74 @@
+1. what is the role of aws in cloud infra?
+2. explain the process of creating IaC using terraform
+3. what is EKS and how does it relate to containers
+4. how do you manage source code using github
+5. what are some key features of powershell in windows scripting
+6. Describe the process of creating an Ansible playbook for developements in windows server environments.
+7. how does pagination handled in aws
+8. what sdk do we use for lambda functions
+9. explain the usecase the we worked on
+10. explain current op organization structure
+11. Is SCP's enabled across organization or individual accounts
+12. explain how scp's work
+13. explain tag policy
+14. how does some failures are handled in our project
+15. explain any such failures faced
+16. python exception handling
+17. how is application deployed in aws cdk
+18. difference between cdk synth and cdk deploy
+19. how does the cicd pipeline work 
+20. write a python code to print occurence of each value in a list
+list= [1,2,2,3,4,4,5]
+21. write an algorithm in python
+22. scenario: there is a file uploaded in s3 and everytime there is a upload it needs to be processed further. how can this be done
+23. how is branching done in git
+24. linux cmd to fetch the memory used by each process
+25. how to check if a remote server is running
+26. how to check if a service is running
+27. difference between http and https
+28. how does ssl certificate work and where it is stored
+29. explain LDAP and AD
+30. how the rest api work and how is the response recieved 
+31. In which format restapi output is received
+32. how is lambda used with rest api
+33. what is vpc, subnet
+34. scenario: there is requirement to deploy and application that is accessed by internet and backend it needs to fetch data from database to perform some processing which should not be accessible from internet. how do you design this
+35. diff between internet gateways and nat gateway
+36. diff between SG and NACL
+37. what is vpc peering and what are its limitations
+38. diff between cloudformation and pipelines
+39. diff between cloudformation and terraform and which is better
+40. scenario: there is an application that needs to be deployed on cloud. out of cloudformation and terraform which do we prefer
+41. diff between ECS and EKS. why do we need EKS fargate inspite of AWS providing ECS with fargate services
+42. how does autoscaling works.
+43. explain rules or conditions used in auto scaling with some example
+44. explain what alerts do we recieve from cloudwatch to snow and what is approach to solve it.
+45. explain how cloudwatch alerts and dashboard is created.
+46. how to onboard an existing application to cloud
+47. how is new application onboarded in cloud
+48. how do we use cloudwatch and cloudtrail in our day to day activity
+49. explain cloudcustodian. some examples of what reports are generated.
+50. explain aws architecture completely starting with vpc, subnets, routetables, sgs etc
+51. how does jenkins work. how to create a jenkins job
+
+
+
+python
+exception handling
+mutable and immutable
+inheritance
+built-in functions
+pass
+
+aws
+aws codepipeline -- stages and waves
+aws servicecatalog
+aws loadbalancer and auto scaling policies
+aws different types of policies
+aws custom l2 construct
+ipam
+
+kwargs and args
+_init_ and super.init
+
+application onboarding with how the services are deployed into an account
